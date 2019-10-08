@@ -8,7 +8,7 @@ position: Software Developer
 
 birth:
   year: 1991
-  location:
+  location: China
 
 experience:
 - company: Infinite Financial Solutions Ltd
@@ -70,7 +70,7 @@ projects:
 - name: Insurance System
 
 contact:
-  email: yuyan1991@gmail.com
+  email: yuyan1991@gmail.com (preferred)
   phone: +852-66041524
   street:
   city: Hong Kong
