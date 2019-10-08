@@ -26,6 +26,7 @@ education:
 - degree: Bachelor of Computer Science
   timeperiod: September 2010 - June 2014
   description: Major in Computer Science, Sun Yat-sen University, Guang Zhou, China.
+  website: http://www.sysu.edu.cn
 
 # skill level goes 0 to 100
 skills:
@@ -72,7 +73,7 @@ projects:
 contact:
   email: yuyan1991@gmail.com (preferred)
   phone: +852-66041524
-  street:
+  street: North Point, Hong Kong
   city: Hong Kong
   website: yuyan1991.github.io
   github: yuyan1991
