@@ -38,16 +38,26 @@ skills:
   level: 70
 - name: RDBMS
   level: 80
+- name: MongoDB
+  level: 40
+- name: Redis
+  level: 45
 - name: Docker
   level: 70
 - name: JavaScript
   level: 50
-- name: HTML, CSS
+- name: HTML
   level: 70
+- name: CSS
+  level: 60
 - name: Node.js
   level: 40
 - name: React
   level: 30
+- name: Python
+  level: 60
+- name: C++
+  level: 70
 
 knowledge:
 
