@@ -104,6 +104,12 @@
         <p class="info">
           {{experience.description}}
         </p>
+        <p v-if="experience.description2" class="info">
+          {{experience.description2}}
+        </p>
+        <p v-if="experience.description3" class="info">
+          {{experience.description3}}
+        </p>
     </div>
     <div class="section-headline">{{ lang.education }}</div>
     <div class="block" v-for="education in person.education" :key="education.degree">
