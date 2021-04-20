@@ -11,9 +11,16 @@ birth:
   location: China
 
 experience:
+- company: China Construction Bank Asia (Protiviti)
+  position: Senior Analyst Programmer
+  timeperiod: December 2019 - Present
+  description: 1. Collaborate with the CCBA user to confirm the project requirement
+  description2: 2. Develop and maintain IPO Revamp, P2-Gateway, STM and P2-OTP Project
+  description3: 3. Collaborate with CCBA users, DBA team, TRM team, UNIX team and Change Control Team to build and deploy system for UAT and PROD
+
 - company: Infinite Financial Solutions Ltd
-  position: Analysis Programmer
-  timeperiod: August 2015 - Present
+  position: Analyst Programmer
+  timeperiod: August 2015 - November 2019
   description: 1. Develop and maintain FinTech system for Shanghai Commercial Bank.
   description2: 2. Code, environment setup and deploy for FinTech system.
   description3: 3. Collaborate with developers, designers, UX designers and project managers in an agile team building responsive, cross-browser compatible and scalable web apps.
@@ -74,6 +81,16 @@ projects:
 - name: Wealth Management System
 
 - name: Insurance System
+
+- name: ECPWEB
+
+- name: P2-OTP
+
+- name: STM
+
+- name: P2-Gateway
+
+- name: IPO Revamp
 
 contact:
   email: yuyan1991@gmail.com (preferred)
